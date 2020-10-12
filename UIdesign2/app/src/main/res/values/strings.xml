@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UI design</string>
+
+    <string-array name="menuText">
+
+        <item> Deep bathroom cleaning </item>
+        <item> Protect your home against short circuits </item>
+        <item> 6 months guarantee on pest control </item>
+        <item> Dr. Fix for all your plumbing needs </item>
+        <item> Summer ready </item>
+        <item> Hygienic products for body care </item>
+
+
+    </string-array>
+</resources>
